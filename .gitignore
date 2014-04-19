@@ -1,0 +1,14 @@
+# Mac OS X
+*.DS_Store
+
+# Xcode
+*.xcworkspace
+xcshareddata/
+xcuserdata/
+
+# Visual Studio
+*.suo
+*.sdf
+*.opensdf
+*.vcxproj.user
+ipch/
